@@ -1,0 +1,8 @@
+c:\users\dori\documents\visual studio 2010\Projects\WinGen_VolID\WinGen_VolID\obj\x86\Debug\WinGen_VolID.Form1.resources
+c:\users\dori\documents\visual studio 2010\Projects\WinGen_VolID\WinGen_VolID\obj\x86\Debug\WinGen_VolID.Properties.Resources.resources
+c:\users\dori\documents\visual studio 2010\Projects\WinGen_VolID\WinGen_VolID\obj\x86\Debug\WinGen_VolID.csproj.GenerateResource.Cache
+c:\users\dori\documents\visual studio 2010\Projects\WinGen_VolID\WinGen_VolID\bin\Debug\WinGen_VolID.exe
+c:\users\dori\documents\visual studio 2010\Projects\WinGen_VolID\WinGen_VolID\bin\Debug\WinGen_VolID.pdb
+c:\users\dori\documents\visual studio 2010\Projects\WinGen_VolID\WinGen_VolID\obj\x86\Debug\WinGen_VolID.exe
+c:\users\dori\documents\visual studio 2010\Projects\WinGen_VolID\WinGen_VolID\obj\x86\Debug\WinGen_VolID.pdb
+C:\Users\Dori\documents\visual studio 2010\Projects\WinGen_VolID\WinGen_VolID\obj\x86\Debug\WinGen_VolID.csprojResolveAssemblyReference.cache
